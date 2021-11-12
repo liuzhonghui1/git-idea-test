@@ -7,5 +7,6 @@ public class FirstClass {
         System.out.println("first class 444 master");
         System.out.println("first class 333-hot fix");
         System.out.println("first class 666 master");
+        System.out.println("first class 777 master push github");
     }
 }
