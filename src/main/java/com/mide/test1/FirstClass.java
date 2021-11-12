@@ -9,5 +9,6 @@ public class FirstClass {
         System.out.println("first class 666 master");
         System.out.println("first class 777 master push github");
         System.out.println("first class 888 github edit");
+        System.out.println("first class 10 github edit");
     }
 }
